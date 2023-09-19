@@ -1,0 +1,34 @@
+// font-family: 'Cormorant Garamond', serif;
+body {
+    min-height: 100vh;
+    background: linear-gradient(135deg, --light-green, --dark-green);
+    color: #000;
+    font-style: normal;
+    font-size: medium;
+    font-weight: 500;
+    letter-spacing: 0.04;
+    font-family: 'Cormorant Garamond', serif;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+
+ul.weather-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
